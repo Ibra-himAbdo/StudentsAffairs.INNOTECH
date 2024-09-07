@@ -1,0 +1,302 @@
+[
+  {
+    "studentId": 16,
+    "courseId": 6,
+    "enrollmentDate": "2023-03-19T16:33:14.3805683+02:00",
+    "grade": "F"
+  },
+  {
+    "studentId": 7,
+    "courseId": 3,
+    "enrollmentDate": "2022-12-24T19:06:59.4476855+02:00",
+    "grade": "D"
+  },
+  {
+    "studentId": 12,
+    "courseId": 8,
+    "enrollmentDate": "2023-02-03T06:26:44.5232495+02:00",
+    "grade": "A"
+  },
+  {
+    "studentId": 7,
+    "courseId": 10,
+    "enrollmentDate": "2024-05-07T22:28:44.3562869+03:00",
+    "grade": "B"
+  },
+  {
+    "studentId": 20,
+    "courseId": 7,
+    "enrollmentDate": "2023-03-16T05:02:50.798025+02:00",
+    "grade": "A"
+  },
+  {
+    "studentId": 10,
+    "courseId": 3,
+    "enrollmentDate": "2024-06-18T15:35:33.2169241+03:00",
+    "grade": "F"
+  },
+  {
+    "studentId": 11,
+    "courseId": 6,
+    "enrollmentDate": "2024-01-07T04:11:06.924779+02:00",
+    "grade": "A"
+  },
+  {
+    "studentId": 16,
+    "courseId": 4,
+    "enrollmentDate": "2024-06-17T23:34:59.5965962+03:00",
+    "grade": "D"
+  },
+  {
+    "studentId": 7,
+    "courseId": 10,
+    "enrollmentDate": "2023-05-19T09:36:36.7129012+03:00",
+    "grade": "A"
+  },
+  {
+    "studentId": 8,
+    "courseId": 7,
+    "enrollmentDate": "2023-04-15T09:51:13.756152+02:00",
+    "grade": "B"
+  },
+  {
+    "studentId": 8,
+    "courseId": 6,
+    "enrollmentDate": "2023-01-11T21:08:05.4694409+02:00",
+    "grade": "D"
+  },
+  {
+    "studentId": 7,
+    "courseId": 11,
+    "enrollmentDate": "2023-09-06T20:02:08.2304576+03:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 12,
+    "courseId": 7,
+    "enrollmentDate": "2022-09-30T22:36:42.7941425+02:00",
+    "grade": "B"
+  },
+  {
+    "studentId": 12,
+    "courseId": 9,
+    "enrollmentDate": "2022-10-29T01:04:24.2171642+02:00",
+    "grade": "A"
+  },
+  {
+    "studentId": 20,
+    "courseId": 6,
+    "enrollmentDate": "2022-09-07T09:22:37.7841998+02:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 7,
+    "courseId": 2,
+    "enrollmentDate": "2023-03-26T01:57:05.1524152+02:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 9,
+    "courseId": 10,
+    "enrollmentDate": "2024-06-11T06:04:53.8483225+03:00",
+    "grade": "F"
+  },
+  {
+    "studentId": 12,
+    "courseId": 8,
+    "enrollmentDate": "2024-07-10T18:59:00.8356127+03:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 14,
+    "courseId": 15,
+    "enrollmentDate": "2023-12-24T17:08:45.7372306+02:00",
+    "grade": "D"
+  },
+  {
+    "studentId": 9,
+    "courseId": 3,
+    "enrollmentDate": "2024-04-20T02:32:18.9467365+02:00",
+    "grade": "D"
+  },
+  {
+    "studentId": 18,
+    "courseId": 5,
+    "enrollmentDate": "2023-10-15T02:48:30.4590318+03:00",
+    "grade": "B"
+  },
+  {
+    "studentId": 11,
+    "courseId": 11,
+    "enrollmentDate": "2023-11-23T11:54:08.1401808+02:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 3,
+    "courseId": 11,
+    "enrollmentDate": "2023-06-22T23:59:17.9629108+03:00",
+    "grade": "A"
+  },
+  {
+    "studentId": 15,
+    "courseId": 5,
+    "enrollmentDate": "2024-05-17T10:29:13.4269538+03:00",
+    "grade": "D"
+  },
+  {
+    "studentId": 19,
+    "courseId": 3,
+    "enrollmentDate": "2022-10-12T12:17:14.6230177+02:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 10,
+    "courseId": 6,
+    "enrollmentDate": "2024-01-08T15:42:47.4206546+02:00",
+    "grade": "B"
+  },
+  {
+    "studentId": 5,
+    "courseId": 6,
+    "enrollmentDate": "2022-12-04T04:58:51.9523948+02:00",
+    "grade": "A"
+  },
+  {
+    "studentId": 15,
+    "courseId": 10,
+    "enrollmentDate": "2023-04-29T11:10:33.0623156+03:00",
+    "grade": "B"
+  },
+  {
+    "studentId": 9,
+    "courseId": 9,
+    "enrollmentDate": "2023-05-09T00:50:06.7849714+03:00",
+    "grade": "F"
+  },
+  {
+    "studentId": 11,
+    "courseId": 6,
+    "enrollmentDate": "2023-09-17T23:29:24.9556692+03:00",
+    "grade": "B"
+  },
+  {
+    "studentId": 6,
+    "courseId": 7,
+    "enrollmentDate": "2024-02-15T00:56:55.8128535+02:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 15,
+    "courseId": 10,
+    "enrollmentDate": "2022-11-23T18:26:21.710297+02:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 20,
+    "courseId": 11,
+    "enrollmentDate": "2023-12-21T21:31:06.8959136+02:00",
+    "grade": "D"
+  },
+  {
+    "studentId": 11,
+    "courseId": 7,
+    "enrollmentDate": "2024-07-26T01:36:52.159246+03:00",
+    "grade": "F"
+  },
+  {
+    "studentId": 18,
+    "courseId": 8,
+    "enrollmentDate": "2023-12-27T07:06:48.5176918+02:00",
+    "grade": "D"
+  },
+  {
+    "studentId": 13,
+    "courseId": 4,
+    "enrollmentDate": "2022-12-10T21:16:25.5478127+02:00",
+    "grade": "D"
+  },
+  {
+    "studentId": 9,
+    "courseId": 4,
+    "enrollmentDate": "2023-05-07T11:06:19.7494221+03:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 11,
+    "courseId": 1,
+    "enrollmentDate": "2024-03-27T20:18:58.2739566+02:00",
+    "grade": "A"
+  },
+  {
+    "studentId": 1,
+    "courseId": 6,
+    "enrollmentDate": "2022-11-12T17:29:50.7037711+02:00",
+    "grade": "A"
+  },
+  {
+    "studentId": 6,
+    "courseId": 2,
+    "enrollmentDate": "2023-12-22T00:23:25.8751798+02:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 5,
+    "courseId": 1,
+    "enrollmentDate": "2022-09-25T01:26:11.2478365+02:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 16,
+    "courseId": 15,
+    "enrollmentDate": "2023-01-18T16:13:46.608452+02:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 16,
+    "courseId": 10,
+    "enrollmentDate": "2023-03-09T23:13:00.4166802+02:00",
+    "grade": "A"
+  },
+  {
+    "studentId": 3,
+    "courseId": 4,
+    "enrollmentDate": "2024-03-10T08:05:37.8081362+02:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 12,
+    "courseId": 3,
+    "enrollmentDate": "2022-08-24T23:09:02.3915071+02:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 18,
+    "courseId": 11,
+    "enrollmentDate": "2024-05-03T21:23:00.6482508+03:00",
+    "grade": "F"
+  },
+  {
+    "studentId": 12,
+    "courseId": 2,
+    "enrollmentDate": "2023-01-02T01:06:46.1694202+02:00",
+    "grade": "C"
+  },
+  {
+    "studentId": 1,
+    "courseId": 6,
+    "enrollmentDate": "2024-01-12T06:04:57.8738382+02:00",
+    "grade": "A"
+  },
+  {
+    "studentId": 4,
+    "courseId": 12,
+    "enrollmentDate": "2024-06-07T07:48:10.0429377+03:00",
+    "grade": "B"
+  },
+  {
+    "studentId": 13,
+    "courseId": 13,
+    "enrollmentDate": "2023-06-18T02:22:53.5589565+03:00",
+    "grade": "C"
+  }
+]

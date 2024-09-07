@@ -1,0 +1,11 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using StudentsAffairs.INNOTECH.Core.Entities;
+global using System.Reflection;
+global using StudentsAffairs.INNOTECH.Core.Specifications;
+global using StudentsAffairs.INNOTECH.Core.Repositories.Contract;
+global using StudentsAffairs.INNOTECH.Core;
+global using StudentsAffairs.INNOTECH.Repository.Data;
+global using System.Linq.Expressions;
+global using System.Collections;
+global using StudentsAffairs.INNOTECH.Repository.Repositories;

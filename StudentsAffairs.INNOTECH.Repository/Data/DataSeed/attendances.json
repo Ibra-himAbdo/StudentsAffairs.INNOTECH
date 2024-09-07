@@ -1,0 +1,252 @@
+[
+  {
+    "enrollmentId": 1,
+    "attendanceDate": "2023-12-03T15:01:23.304796+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 45,
+    "attendanceDate": "2024-05-09T21:21:56.5282888+03:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 22,
+    "attendanceDate": "2023-10-05T01:46:15.1083445+03:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 44,
+    "attendanceDate": "2024-07-23T12:08:27.2249579+03:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 37,
+    "attendanceDate": "2024-03-18T18:03:04.3684075+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 35,
+    "attendanceDate": "2024-02-11T20:08:14.1812441+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 35,
+    "attendanceDate": "2023-08-31T00:35:56.3292915+03:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 10,
+    "attendanceDate": "2023-11-09T17:02:29.2488043+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 12,
+    "attendanceDate": "2024-04-05T19:53:32.9923905+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 48,
+    "attendanceDate": "2024-07-11T05:09:52.8374772+03:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 50,
+    "attendanceDate": "2023-11-11T00:59:10.4307254+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 11,
+    "attendanceDate": "2024-02-19T03:58:02.3701898+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 43,
+    "attendanceDate": "2024-03-16T18:45:14.57451+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 45,
+    "attendanceDate": "2024-01-02T02:50:35.9876426+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 5,
+    "attendanceDate": "2024-04-24T19:59:14.4602157+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 29,
+    "attendanceDate": "2023-10-31T00:14:44.4385207+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 48,
+    "attendanceDate": "2023-09-07T22:42:45.1257563+03:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 35,
+    "attendanceDate": "2024-01-29T06:38:56.8065151+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 4,
+    "attendanceDate": "2024-02-09T15:04:51.2571889+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 42,
+    "attendanceDate": "2024-02-05T16:43:08.9157178+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 50,
+    "attendanceDate": "2024-07-11T04:34:33.6631785+03:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 21,
+    "attendanceDate": "2024-04-15T22:30:42.4838644+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 28,
+    "attendanceDate": "2023-09-07T10:24:39.8661367+03:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 32,
+    "attendanceDate": "2024-03-27T04:24:59.4116436+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 33,
+    "attendanceDate": "2024-05-11T12:01:54.4046759+03:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 15,
+    "attendanceDate": "2023-10-02T23:03:51.0140707+03:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 31,
+    "attendanceDate": "2023-12-01T22:31:40.802177+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 46,
+    "attendanceDate": "2024-05-18T06:16:33.9042485+03:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 19,
+    "attendanceDate": "2024-07-19T21:15:25.5559086+03:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 40,
+    "attendanceDate": "2023-12-16T09:47:56.2326377+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 38,
+    "attendanceDate": "2024-03-18T17:05:24.8088687+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 31,
+    "attendanceDate": "2024-02-21T12:12:45.8471437+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 3,
+    "attendanceDate": "2023-10-19T14:29:18.0541121+03:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 9,
+    "attendanceDate": "2024-06-05T09:42:07.8760712+03:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 13,
+    "attendanceDate": "2024-04-04T18:21:02.1232131+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 19,
+    "attendanceDate": "2023-09-18T21:58:57.9072104+03:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 48,
+    "attendanceDate": "2024-01-19T04:26:07.5541625+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 24,
+    "attendanceDate": "2024-07-30T19:14:06.7710014+03:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 22,
+    "attendanceDate": "2024-04-15T00:32:48.8178426+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 13,
+    "attendanceDate": "2023-08-16T02:12:13.2156252+03:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 49,
+    "attendanceDate": "2024-02-03T23:28:49.0512715+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 4,
+    "attendanceDate": "2024-02-16T20:23:48.3983162+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 1,
+    "attendanceDate": "2024-01-22T00:26:14.7477582+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 3,
+    "attendanceDate": "2023-09-10T10:25:44.2765786+03:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 15,
+    "attendanceDate": "2024-02-16T20:44:43.240723+02:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 23,
+    "attendanceDate": "2024-07-26T17:44:07.1990934+03:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 50,
+    "attendanceDate": "2023-12-21T08:55:50.3777894+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 36,
+    "attendanceDate": "2023-11-11T12:05:42.9122341+02:00",
+    "status": "Present"
+  },
+  {
+    "enrollmentId": 4,
+    "attendanceDate": "2024-05-27T07:19:56.4095906+03:00",
+    "status": "Absent"
+  },
+  {
+    "enrollmentId": 9,
+    "attendanceDate": "2023-11-16T09:39:36.2433632+02:00",
+    "status": "Absent"
+  }
+]

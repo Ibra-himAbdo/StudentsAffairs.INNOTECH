@@ -1,0 +1,6 @@
+@StudentsAffairs.INNOTECH.APIs_HostAddress = http://localhost:5182
+
+GET {{StudentsAffairs.INNOTECH.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

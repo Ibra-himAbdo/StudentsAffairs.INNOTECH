@@ -1,0 +1,182 @@
+[
+  {
+    "fullName": "Dakota Thiel",
+    "dateOfBirth": "1987-06-10T16:35:32.7572817+03:00",
+    "gender": "Female",
+    "mobile": "0108287523",
+    "gradeLevel": 1,
+    "userId": "Jacques.Pouros",
+    "departmentId": 4
+  },
+  {
+    "fullName": "Clare Batz",
+    "dateOfBirth": "1999-05-24T20:12:33.512908+03:00",
+    "gender": "Male",
+    "mobile": "0107504631",
+    "gradeLevel": 4,
+    "userId": "Carlie8",
+    "departmentId": 2
+  },
+  {
+    "fullName": "Bettie Rosenbaum",
+    "dateOfBirth": "1996-12-23T12:47:13.5614242+02:00",
+    "gender": "Female",
+    "mobile": "0105467743",
+    "gradeLevel": 2,
+    "userId": "Aubree.Stroman2",
+    "departmentId": 3
+  },
+  {
+    "fullName": "Javonte Quigley",
+    "dateOfBirth": "1991-03-23T13:56:34.8058291+02:00",
+    "gender": "Male",
+    "mobile": "0100234102",
+    "gradeLevel": 2,
+    "userId": "Imelda22",
+    "departmentId": 5
+  },
+  {
+    "fullName": "Dejuan Hahn",
+    "dateOfBirth": "1999-09-16T01:11:59.5852633+03:00",
+    "gender": "Female",
+    "mobile": "0103851721",
+    "gradeLevel": 3,
+    "userId": "Pearlie_Schmeler",
+    "departmentId": 5
+  },
+  {
+    "fullName": "Hailie Lakin",
+    "dateOfBirth": "2001-10-10T21:45:09.0176687+02:00",
+    "gender": "Male",
+    "mobile": "0107690629",
+    "gradeLevel": 1,
+    "userId": "Tre79",
+    "departmentId": 5
+  },
+  {
+    "fullName": "Dimitri Marvin",
+    "dateOfBirth": "1989-11-14T07:48:31.0529298+02:00",
+    "gender": "Female",
+    "mobile": "0101920575",
+    "gradeLevel": 3,
+    "userId": "Buddy_Pfannerstill",
+    "departmentId": 4
+  },
+  {
+    "fullName": "Sim White",
+    "dateOfBirth": "1988-07-02T17:09:31.9274148+03:00",
+    "gender": "Female",
+    "mobile": "0105460943",
+    "gradeLevel": 5,
+    "userId": "Ottis31",
+    "departmentId": 4
+  },
+  {
+    "fullName": "Rex Hilpert",
+    "dateOfBirth": "2001-03-23T09:35:26.2870322+02:00",
+    "gender": "Male",
+    "mobile": "0105859791",
+    "gradeLevel": 2,
+    "userId": "Hassan8",
+    "departmentId": 5
+  },
+  {
+    "fullName": "Kallie Hoeger",
+    "dateOfBirth": "1986-12-17T05:29:29.2006936+02:00",
+    "gender": "Female",
+    "mobile": "0104966389",
+    "gradeLevel": 1,
+    "userId": "Melissa_Kunze",
+    "departmentId": 4
+  },
+  {
+    "fullName": "Cordell Koch",
+    "dateOfBirth": "1990-11-24T06:34:15.4448737+02:00",
+    "gender": "Male",
+    "mobile": "0106436482",
+    "gradeLevel": 2,
+    "userId": "Clare.Kling",
+    "departmentId": 3
+  },
+  {
+    "fullName": "Katrine Bahringer",
+    "dateOfBirth": "2003-07-21T06:35:49.3947455+03:00",
+    "gender": "Male",
+    "mobile": "0105607061",
+    "gradeLevel": 5,
+    "userId": "Reggie12",
+    "departmentId": 4
+  },
+  {
+    "fullName": "Chelsea Boyle",
+    "dateOfBirth": "2005-05-19T19:54:40.465524+03:00",
+    "gender": "Male",
+    "mobile": "0109740014",
+    "gradeLevel": 5,
+    "userId": "Nyasia_Johnson67",
+    "departmentId": 4
+  },
+  {
+    "fullName": "Melvin Price",
+    "dateOfBirth": "1994-05-31T08:12:06.5255756+03:00",
+    "gender": "Female",
+    "mobile": "0108542096",
+    "gradeLevel": 4,
+    "userId": "Filiberto.Gaylord",
+    "departmentId": 1
+  },
+  {
+    "fullName": "Bridgette Schmitt",
+    "dateOfBirth": "1988-04-13T18:15:53.1385817+02:00",
+    "gender": "Female",
+    "mobile": "0102424630",
+    "gradeLevel": 4,
+    "userId": "Tyson1",
+    "departmentId": 4
+  },
+  {
+    "fullName": "Eloy Cronin",
+    "dateOfBirth": "2002-04-07T15:44:34.8323356+02:00",
+    "gender": "Male",
+    "mobile": "0100080813",
+    "gradeLevel": 1,
+    "userId": "Bulah27",
+    "departmentId": 1
+  },
+  {
+    "fullName": "Vaughn Jaskolski",
+    "dateOfBirth": "2001-11-12T00:38:38.2117631+02:00",
+    "gender": "Female",
+    "mobile": "0105306188",
+    "gradeLevel": 4,
+    "userId": "Lelia.Shanahan58",
+    "departmentId": 2
+  },
+  {
+    "fullName": "Kathleen Bashirian",
+    "dateOfBirth": "1997-10-08T08:24:30.5981075+02:00",
+    "gender": "Female",
+    "mobile": "0104743225",
+    "gradeLevel": 2,
+    "userId": "Abagail65",
+    "departmentId": 2
+  },
+  {
+    "fullName": "Kian Reichert",
+    "dateOfBirth": "1999-03-04T02:45:44.2459608+02:00",
+    "gender": "Female",
+    "mobile": "0109612229",
+    "gradeLevel": 3,
+    "userId": "Cristopher39",
+    "departmentId": 2
+  },
+  {
+    "fullName": "Burley Reynolds",
+    "dateOfBirth": "1994-02-17T03:16:27.5863705+02:00",
+    "gender": "Male",
+    "mobile": "0100885313",
+    "gradeLevel": 2,
+    "userId": "Grant12",
+    "departmentId": 3
+  }
+]

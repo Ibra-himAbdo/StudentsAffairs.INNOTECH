@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Circuit Analysis",
+    "code": "91915931",
+    "credits": 5,
+    "departmentId": 3
+  },
+  {
+    "name": "Circuit Analysis",
+    "code": "66861287",
+    "credits": 3,
+    "departmentId": 3
+  },
+  {
+    "name": "Control Systems",
+    "code": "94516456",
+    "credits": 4,
+    "departmentId": 4
+  },
+  {
+    "name": "Control Systems",
+    "code": "17278386",
+    "credits": 4,
+    "departmentId": 3
+  },
+  {
+    "name": "Thermodynamics",
+    "code": "82433048",
+    "credits": 1,
+    "departmentId": 3
+  },
+  {
+    "name": "Circuit Analysis",
+    "code": "64390987",
+    "credits": 2,
+    "departmentId": 1
+  },
+  {
+    "name": "Data Structures and Algorithms",
+    "code": "33084527",
+    "credits": 5,
+    "departmentId": 5
+  },
+  {
+    "name": "Control Systems",
+    "code": "07563003",
+    "credits": 4,
+    "departmentId": 2
+  },
+  {
+    "name": "Circuit Analysis",
+    "code": "37048730",
+    "credits": 5,
+    "departmentId": 3
+  },
+  {
+    "name": "Materials Science",
+    "code": "72587553",
+    "credits": 5,
+    "departmentId": 5
+  },
+  {
+    "name": "Control Systems",
+    "code": "76073984",
+    "credits": 5,
+    "departmentId": 3
+  },
+  {
+    "name": "Structural Analysis",
+    "code": "70873153",
+    "credits": 4,
+    "departmentId": 1
+  },
+  {
+    "name": "Computer Architecture",
+    "code": "77570130",
+    "credits": 5,
+    "departmentId": 4
+  },
+  {
+    "name": "Control Systems",
+    "code": "11063742",
+    "credits": 4,
+    "departmentId": 5
+  },
+  {
+    "name": "Electromagnetic Theory",
+    "code": "53023193",
+    "credits": 3,
+    "departmentId": 2
+  }
+]
